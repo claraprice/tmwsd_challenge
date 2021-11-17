@@ -2,7 +2,7 @@ var express = require('express')
 var router = express.Router()
 
 router.get('/', function (req, res) {
-  res.send('TMWSD is here!')
+  res.render('messages/index', { adjective: 'here' })
 })
 
 module.exports = router

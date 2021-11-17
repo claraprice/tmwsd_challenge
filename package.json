@@ -18,6 +18,7 @@
   "homepage": "https://github.com/claraprice/tmwsd_challenge#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "node": "^17.1.0"
+    "node": "^17.1.0",
+    "pug": "^3.0.2"
   }
 }
