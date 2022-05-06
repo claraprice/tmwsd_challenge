@@ -28,4 +28,4 @@ Bonus points for making it look pretty :sparkles:
 
 ## Step 3: Submit
 
-Email me when you're done with a link to your fork.
+When you are finished, [deploy your app to Heroku](https://devcenter.heroku.com/articles/git) and send an email with a link to the Heroku app and a link to your fork. Thanks!
