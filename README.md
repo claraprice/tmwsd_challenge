@@ -24,8 +24,10 @@ Complete the following requirements by using any database engine of your choice.
 - [ ] As a user, when I open a message, the message should self-destruct (delete from the database).
 - [ ] As a user, I should no longer see messages on the homepage that have been viewed.
 
-Bonus points for making it look pretty :sparkles:
+Two more things:
+* Remember to add documentation to your README so the app can be installed and run locally for review.
+* Bonus points for making it look pretty :sparkles:
 
 ## Step 3: Submit
 
-When you are finished, [deploy your app to Heroku](https://devcenter.heroku.com/articles/git) and send an email with a link to the Heroku app and a link to your fork. Thanks!
+Send an email with a link to your fork when finished. Thanks!
