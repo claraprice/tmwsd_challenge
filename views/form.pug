@@ -1,0 +1,15 @@
+extends layout
+
+block content
+  h1 Submit a Message
+  form(action='/messages', method='POST')
+    label(for='content') Message:
+    textarea(name='content', id='content', required)
+    br
+    button(type='submit') Submit
+
+  h2 Existing Messages
+  ul
+    each message in messages
+      li
+        a(href=`/messages/${message.url}`) #{message.content}
